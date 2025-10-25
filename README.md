@@ -4,6 +4,12 @@ Secure password generator built using HTML, CSS, and JavaScript. Generates custo
 
 A simple and secure password generator built using HTML, CSS, and JavaScript. This tool allows users to generate strong, customizable passwords with options for length, digits, and special characters. Designed for both desktop and mobile use.
 
+## 👨‍💻 Author
+
+**Abdullah**  
+Student at UET Lahore  
+[GitHub Profile](https://github.com/Abdullah7020)
+
 ## 🔗 Live Demo
 [View the app on GitHub Pages](https://Abdullah7020.github.io/password-generator/)  
 *(Replace `yourusername` with your actual GitHub username)*
