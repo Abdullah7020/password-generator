@@ -26,4 +26,4 @@ Student at UET Lahore
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abdullah7020/password-generator.git
+   git clone https://github.com/yourusername/password-generator.git
