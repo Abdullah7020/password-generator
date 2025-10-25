@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Password Generator</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <div class="container">
+    <img src="logo.jpg" alt="Logo" class="logo">
+    <h1>Password Generator</h1>
+    <form id="password-form">
+      <div class="form-group">
+        <label for="length">Length:</label>
+        <input type="number" id="length" value="12" min="1">
+      </div>
+      <div class="form-group">
+        <label><input type="checkbox" id="digits" checked> Include Digits</label>
+        <label><input type="checkbox" id="specials" checked> Include Special Characters</label>
+      </div>
+      <button type="button" onclick="generatePassword()">Generate Password</button>
+    </form>
+
+    <div class="output">
+      <h2>Your Password:</h2>
+      <p id="result" class="password-box"></p>
+      <button onclick="copyPassword()">Copy to Clipboard</button>
+      <p id="copy-status" class="status"></p>
+    </div>
+
+    <footer>
+      <p>Made by Abdullah @ ABM LION</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
