@@ -6,7 +6,7 @@ A simple and secure password generator built using HTML, CSS, and JavaScript. Th
 
 ## 👨‍💻 Author
 
-**Abdullah**  
+**Abdullah Bin Masood**  
 Student at UET Lahore  
 [GitHub Profile](https://github.com/Abdullah7020)
 
